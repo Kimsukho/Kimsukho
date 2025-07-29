@@ -2,11 +2,6 @@
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=ACBCFF&fontColor=0F1035&height=200&section=header&text=Welcome+to+Sukho's+Github!👋&fontSize=40"
 </p>
 
-<p align='center'>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=ACBCFF&fontColor=0F1035&height=200&section=header&text=Welcome+to+Sukho's+Github!👋&fontSize=40"
-</p>
-
-
 ## 🛠 Tech Stack
 - Language: Java, Python, JavaScript
 - Framework: Spring Boot, Django
