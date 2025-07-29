@@ -1,6 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+<p align='center'>
+	<img src="https://capsule-render.vercel.app/api?type=wave&color=ACBCFF&fontColor=0F1035&height=200&section=header&text=Welcome+to+Sukho's+Github! ✨&fontSize=40" />
+</p>
 
-<p>
+<p align='center'>
 	<!-- gmail -->
 	<img src="https://img.shields.io/badge/tnrgh12@gmail.com-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
  	<!-- Tistory -->
