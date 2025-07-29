@@ -15,9 +15,11 @@
 - 
 
 ## 📫 How to reach me
-<!-- gmail -->
-<img src="https://img.shields.io/badge/tnrgh12@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-<!-- Tistory -->
-<a href="https://sukstory.tistory.com/"><img src="https://img.shields.io/badge/Tech Blog-000000?style=flat-square&logo=tistory&logoColor=white"></a>
-<!-- Instagram -->
-<a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
+<p>
+	<!-- gmail -->
+	<img src="https://img.shields.io/badge/tnrgh12@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+	<!-- Tistory -->
+	<a href="https://sukstory.tistory.com/"><img src="https://img.shields.io/badge/Tech Blog-000000?style=flat-square&logo=tistory&logoColor=white"></a>
+	<!-- Instagram -->
+	<a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>	
+</p>
