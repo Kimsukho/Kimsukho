@@ -4,7 +4,7 @@
 
 <p align='center'>
 	<!-- gmail -->
-	<img src="https://img.shields.io/badge/tnrgh12@gmail.com-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+	<img src="https://img.shields.io/badge/tnrgh12@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
  	<!-- Tistory -->
 	<a href="https://sukstory.tistory.com/"><img src="https://img.shields.io/badge/Tech Blog-000000?style=flat-square&logo=tistory&logoColor=white"></a>
  	<!-- Instagram -->
