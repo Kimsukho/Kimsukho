@@ -21,7 +21,6 @@
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 	<img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&amp;logo=notion&amp;logoColor=white"/>
-	<img src=""/>
 </p>
 <!--
 - Language: Java, Python, JavaScript
@@ -39,4 +38,6 @@
 	<a href="https://sukstory.tistory.com/"><img src="https://img.shields.io/badge/Tech Blog-000000?style=flat-square&logo=tistory&logoColor=white"></a>
 	<!-- Instagram -->
 	<a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>	
+	<!-- Notion -->
+	<a href="https://www.nothion.com/"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"></a>	
 </p>
