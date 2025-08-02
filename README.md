@@ -37,7 +37,7 @@
 	<!-- Tistory -->
 	<a href="https://sukstory.tistory.com/"><img src="https://img.shields.io/badge/Tech Blog-000000?style=flat-square&logo=tistory&logoColor=white"></a>
 	<!-- Instagram -->
-	<a href="https://[www.instagram.com](https://www.instagram.com/me22mory/)/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>	
+	<a href="https://https://www.instagram.com/me22mory"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>	
 	<!-- Notion -->
-	<a href="[https://www.nothion.com/](http://cherry-buffet-2ae.notion.site/Developer-Portfolio-241a6d7c7ca0806695d8e6abf3b451ca?pvs=74)"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"></a>	
+	<a href="http://cherry-buffet-2ae.notion.site/Developer-Portfolio-241a6d7c7ca0806695d8e6abf3b451ca?pvs=74"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"></a>	
 </p>
